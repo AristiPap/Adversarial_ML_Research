@@ -17,7 +17,7 @@ studied a few decades ago, the relatively recent advent of powerful GPUs gave re
 ers the computing power necessary to experiment and build complex machine learning
 systems. Today, state-of-the art models for computer vision are based on deep neural
 networks with up to several million parameters, and they rely on hardware that was not
-available just a decade ago.
+available just a decade ago.\\
 One of the ways privacy could be breached, is by exploiting inherit vulnerabilities found
 in the structure and nature of many ML models a, deployed in public. This massive data
 evolution, has created many data breaches and security issues that have not yet been re-
@@ -42,7 +42,7 @@ These are some of the questions, we are trying to answer in this Thesis.
 
 ### TODO
 - [ ] Optimize code ,check the accuracy and success rate of our attacks if we add bias
-- [ ] Further research on defence methods and work on improving existing version of defence algorithm in the theis code
+- [ ] Further research on defence methods and work on improving existing version of defence algorithm in the thesis code
 
 ## Links:
 - Thesis Publication: https://pergamos.lib.uoa.gr/uoa/dl/frontend/el/browse/3232946
